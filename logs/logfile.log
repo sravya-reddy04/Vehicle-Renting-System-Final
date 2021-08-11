@@ -1,0 +1,117 @@
+[INFO ] 2021-08-10 06:42:00.998 [restartedMain] VehicleRentingSystemApplication - Starting VehicleRentingSystemApplication using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 9890 (/home/salman/eclipse-workspace/VehicleRentingSystem/bin/main started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 06:42:00.998 [restartedMain] VehicleRentingSystemApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 06:42:01.942 [restartedMain] VehicleRentingSystemApplication - Started VehicleRentingSystemApplication in 0.97 seconds (JVM running for 125.369)
+[ERROR] 2021-08-10 06:42:09.935 [http-nio-8081-exec-1] VehicleRentingSystemApplication - There is no existing driver to be deleted with provided driver id
+[INFO ] 2021-08-10 08:31:30.254 [Test worker] VehicleRentingSystemApplicationTests - Starting VehicleRentingSystemApplicationTests using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 16181 (started by root in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 08:31:30.260 [Test worker] VehicleRentingSystemApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 08:31:38.374 [Test worker] VehicleRentingSystemApplicationTests - Started VehicleRentingSystemApplicationTests in 8.519 seconds (JVM running for 11.698)
+[INFO ] 2021-08-10 08:31:38.723 [Test worker] VehicleRentingSystemApplication - driver successfully retrieved
+[INFO ] 2021-08-10 08:31:38.745 [Test worker] VehicleRentingSystemApplication - successfully added
+[INFO ] 2021-08-10 08:31:38.750 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:38.757 [Test worker] VehicleRentingSystemApplication - Successfully updated
+[INFO ] 2021-08-10 08:31:38.763 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:38.769 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:38.776 [Test worker] VehicleRentingSystemApplication - successfully updated 
+[INFO ] 2021-08-10 08:31:38.783 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:38.789 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:38.795 [Test worker] VehicleRentingSystemApplication - successful retrieval of driver
+[INFO ] 2021-08-10 08:31:38.808 [Test worker] VehicleRentingSystemApplication - successfully updated 
+[INFO ] 2021-08-10 08:31:38.993 [Test worker] VehicleRentingSystemApplication - successfully deleted
+[INFO ] 2021-08-10 08:31:39.002 [Test worker] VehicleRentingSystemApplication - successfully added
+[INFO ] 2021-08-10 08:31:39.081 [Test worker] VehicleRentingSystemApplication - driver successfully retrieved
+[INFO ] 2021-08-10 08:31:39.112 [Test worker] VehicleRentingSystemApplication - Successfully updated
+[INFO ] 2021-08-10 08:31:39.175 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:39.187 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:39.206 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:39.232 [Test worker] VehicleRentingSystemApplication - successfully updated 
+[INFO ] 2021-08-10 08:31:39.310 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:39.355 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:39.368 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:39.377 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:31:39.386 [Test worker] VehicleRentingSystemApplication - successful retrieval of driver
+[INFO ] 2021-08-10 08:31:39.403 [Test worker] VehicleRentingSystemApplication - successfully updated 
+[INFO ] 2021-08-10 08:37:20.630 [Test worker] VehicleRentingSystemApplicationTests - Starting VehicleRentingSystemApplicationTests using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 17035 (started by root in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 08:37:20.636 [Test worker] VehicleRentingSystemApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 08:37:28.708 [Test worker] VehicleRentingSystemApplicationTests - Started VehicleRentingSystemApplicationTests in 8.406 seconds (JVM running for 11.708)
+[INFO ] 2021-08-10 08:37:29.031 [Test worker] VehicleRentingSystemApplication - driver successfully retrieved
+[INFO ] 2021-08-10 08:37:29.058 [Test worker] VehicleRentingSystemApplication - successfully added
+[INFO ] 2021-08-10 08:37:29.065 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.072 [Test worker] VehicleRentingSystemApplication - Successfully updated
+[INFO ] 2021-08-10 08:37:29.079 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.087 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.095 [Test worker] VehicleRentingSystemApplication - successfully updated 
+[INFO ] 2021-08-10 08:37:29.103 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.110 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.118 [Test worker] VehicleRentingSystemApplication - successful retrieval of driver
+[INFO ] 2021-08-10 08:37:29.135 [Test worker] VehicleRentingSystemApplication - successfully updated 
+[INFO ] 2021-08-10 08:37:29.336 [Test worker] VehicleRentingSystemApplication - successfully deleted
+[INFO ] 2021-08-10 08:37:29.346 [Test worker] VehicleRentingSystemApplication - successfully added
+[INFO ] 2021-08-10 08:37:29.418 [Test worker] VehicleRentingSystemApplication - driver successfully retrieved
+[INFO ] 2021-08-10 08:37:29.448 [Test worker] VehicleRentingSystemApplication - Successfully updated
+[INFO ] 2021-08-10 08:37:29.516 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.527 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.547 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.568 [Test worker] VehicleRentingSystemApplication - successfully updated 
+[INFO ] 2021-08-10 08:37:29.651 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.693 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.705 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.714 [Test worker] VehicleRentingSystemApplication - successful retrieval of drivers
+[INFO ] 2021-08-10 08:37:29.723 [Test worker] VehicleRentingSystemApplication - successful retrieval of driver
+[INFO ] 2021-08-10 08:37:29.770 [Test worker] VehicleRentingSystemApplication - successfully updated 
+[INFO ] 2021-08-10 08:40:50.458 [Test worker] VehicleRentingSystemApplicationTests - Starting VehicleRentingSystemApplicationTests using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 17741 (started by root in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 08:40:50.464 [Test worker] VehicleRentingSystemApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 08:41:00.453 [Test worker] VehicleRentingSystemApplicationTests - Started VehicleRentingSystemApplicationTests in 10.294 seconds (JVM running for 13.395)
+[INFO ] 2021-08-10 08:44:01.941 [Test worker] VehicleRentingSystemApplicationTests - Starting VehicleRentingSystemApplicationTests using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 18310 (started by root in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 08:44:01.946 [Test worker] VehicleRentingSystemApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 08:44:09.711 [Test worker] VehicleRentingSystemApplicationTests - Started VehicleRentingSystemApplicationTests in 8.041 seconds (JVM running for 10.827)
+[INFO ] 2021-08-10 08:49:26.947 [Test worker] VehicleRentingSystemApplicationTests - Starting VehicleRentingSystemApplicationTests using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 19062 (started by root in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 08:49:26.953 [Test worker] VehicleRentingSystemApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 08:49:34.660 [Test worker] VehicleRentingSystemApplicationTests - Started VehicleRentingSystemApplicationTests in 8.022 seconds (JVM running for 10.983)
+[INFO ] 2021-08-10 08:56:37.083 [Test worker] VehicleRentingSystemApplicationTests - Starting VehicleRentingSystemApplicationTests using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 19741 (started by root in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 08:56:37.088 [Test worker] VehicleRentingSystemApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 08:56:44.730 [Test worker] VehicleRentingSystemApplicationTests - Started VehicleRentingSystemApplicationTests in 7.918 seconds (JVM running for 10.75)
+[INFO ] 2021-08-10 08:59:25.586 [main] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 19906 (started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 08:59:25.592 [main] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 08:59:32.490 [main] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 7.143 seconds (JVM running for 9.048)
+[INFO ] 2021-08-10 09:01:18.254 [main] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 20137 (started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 09:01:18.259 [main] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 09:01:24.684 [main] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 6.669 seconds (JVM running for 7.882)
+[INFO ] 2021-08-10 09:02:44.123 [main] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 20248 (started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 09:02:44.128 [main] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 09:02:50.173 [main] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 6.309 seconds (JVM running for 7.583)
+[INFO ] 2021-08-10 09:06:11.962 [main] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 20464 (started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 09:06:11.968 [main] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 09:06:17.851 [main] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 6.107 seconds (JVM running for 7.376)
+[INFO ] 2021-08-10 09:07:27.846 [main] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 20544 (started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 09:07:27.850 [main] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 09:07:34.093 [main] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 6.46 seconds (JVM running for 7.902)
+[INFO ] 2021-08-10 09:08:48.067 [Test worker] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 20841 (started by root in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 09:08:48.072 [Test worker] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 09:08:56.112 [Test worker] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 8.319 seconds (JVM running for 11.373)
+[INFO ] 2021-08-10 09:10:47.180 [main] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 20971 (started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 09:10:47.186 [main] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 09:10:53.503 [main] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 6.566 seconds (JVM running for 7.973)
+[INFO ] 2021-08-10 09:12:57.559 [main] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 21278 (started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 09:12:57.565 [main] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 09:13:04.023 [main] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 6.688 seconds (JVM running for 8.179)
+[INFO ] 2021-08-10 09:13:35.238 [Test worker] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 21549 (started by root in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 09:13:35.245 [Test worker] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 09:13:51.377 [Test worker] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 16.493 seconds (JVM running for 19.41)
+[INFO ] 2021-08-10 09:17:21.064 [Test worker] VehicleRentingSystemApplicationTests - Starting VehicleRentingSystemApplicationTests using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 22193 (started by root in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 09:17:21.070 [Test worker] VehicleRentingSystemApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 09:17:33.977 [Test worker] VehicleRentingSystemApplicationTests - Started VehicleRentingSystemApplicationTests in 13.47 seconds (JVM running for 17.969)
+[INFO ] 2021-08-10 11:47:35.724 [main] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 30321 (started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 11:47:35.737 [main] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 11:47:44.065 [main] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 8.668 seconds (JVM running for 11.48)
+[INFO ] 2021-08-10 11:48:28.244 [restartedMain] VehicleRentingSystemApplication - Starting VehicleRentingSystemApplication using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 30454 (/home/salman/eclipse-workspace/VehicleRentingSystem/bin/main started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 11:48:28.248 [restartedMain] VehicleRentingSystemApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 11:48:32.672 [restartedMain] VehicleRentingSystemApplication - Started VehicleRentingSystemApplication in 4.786 seconds (JVM running for 5.919)
+[INFO ] 2021-08-10 12:03:41.900 [restartedMain] VehicleRentingSystemApplication - Starting VehicleRentingSystemApplication using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 30454 (/home/salman/eclipse-workspace/VehicleRentingSystem/bin/main started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 12:03:41.900 [restartedMain] VehicleRentingSystemApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 12:03:43.019 [restartedMain] VehicleRentingSystemApplication - Started VehicleRentingSystemApplication in 1.159 seconds (JVM running for 916.266)
+[INFO ] 2021-08-10 12:57:44.554 [restartedMain] VehicleRentingSystemApplication - Starting VehicleRentingSystemApplication using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 34840 (/home/salman/eclipse-workspace/VehicleRentingSystem/bin/main started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-10 12:57:44.581 [restartedMain] VehicleRentingSystemApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-10 12:57:49.739 [restartedMain] VehicleRentingSystemApplication - Started VehicleRentingSystemApplication in 5.541 seconds (JVM running for 7.232)
+[INFO ] 2021-08-11 08:59:15.988 [main] DriverServiceJUnitTest - Starting DriverServiceJUnitTest using Java 1.8.0_291 on salman-HP-Pavilion-Laptop-15-cc1xx with PID 81412 (started by salman in /home/salman/eclipse-workspace/VehicleRentingSystem)
+[INFO ] 2021-08-11 08:59:15.995 [main] DriverServiceJUnitTest - No active profile set, falling back to default profiles: default
+[INFO ] 2021-08-11 08:59:22.676 [main] DriverServiceJUnitTest - Started DriverServiceJUnitTest in 6.908 seconds (JVM running for 8.552)
